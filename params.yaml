@@ -1,0 +1,10 @@
+base:
+  project: winequality-project
+  random_state: 42
+  target_col: TARGET
+
+data_source:
+  s3_source: home/shubham/MLOPS_Practice/simple_app/data_given/winequality.csv
+
+load_data:
+  raw_dataset_csv: /home/shubham/MLOPS_Practice/simple_app/data/raw/winequality.csv

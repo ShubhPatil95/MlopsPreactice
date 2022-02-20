@@ -1,4 +1,4 @@
 dvc
 dvc[gdrive]
-Sklearn
+sklearn
 pandas
